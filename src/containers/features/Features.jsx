@@ -4,20 +4,20 @@ import "./features.css";
 const Features = () => {
   const featuresData = [
     {
-      title: "Improving end distrusts instantly",
-      text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+      title: "Seamless Automation Beyond Imagination",
+      text: "Unleash the power of GPT-3 to automate tasks and processes that once seemed unimaginable, streamlining your workflow like never before.",
     },
     {
-      title: "Become the tended active",
-      text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.",
+      title: "Crafting Tomorrow's Conversations, Today",
+      text: "Step into the future of communication with GPT-3, as it generates natural, contextually-rich dialogues that resonate and connect with your audience",
     },
     {
-      title: "Message or am nothing",
-      text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.",
+      title: "Innovation at Your Fingertips",
+      text: "Experience firsthand the innovation GPT-3 brings, enabling you to create applications and solutions that redefine industry standards and open doors to new possibilities.",
     },
     {
-      title: "Really boy law county",
-      text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..",
+      title: "Personalized Experiences Redefined",
+      text: "Embrace the future of personalization through GPT-3, tailoring user experiences so precisely that each interaction feels like a one-of-a-kind journey.",
     },
   ];
 

@@ -10,10 +10,10 @@ const Header = () => {
           Let's Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          GPT-3 by OpenAI offers exciting potential for creating extraordinary
+          web applications. Its advanced language capabilities empower
+          developers to redefine user experiences and shape the future of web
+          development in remarkable ways.
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address" />
