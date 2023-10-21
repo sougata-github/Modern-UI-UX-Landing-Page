@@ -130,5 +130,13 @@ ul {
 
   .gpt3__navbar-menu_container-links-sign {
     display: block;
+    padding-right: 15px;
+  }
+
+  .gpt3__navbar-menu_container-links-sign p {
+    margin-bottom: 0.5rem;
+    font-size: 18px;
+    color: #fff;
+    font-family: var(--font-family);
   }
 }
